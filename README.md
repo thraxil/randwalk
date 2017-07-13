@@ -1,6 +1,6 @@
 ## randomized directory walk
 
-This is a drop-in replacement for `[path/filepath.Walk()](https://golang.org/pkg/path/filepath/#Walk)` that goes
+This is a drop-in replacement for [path/filepath.Walk()](https://golang.org/pkg/path/filepath/#Walk) that goes
 through the directory in a randomized order rather than
 lexigraphically sorted.
 
